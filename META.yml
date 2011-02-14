@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               App-Pimpd
-version:            0.202
+version:            0.203
 abstract:           Perl Interface for the Music Player Daemon 2
 author:
     - Magnus Woldrich <trapd00r@trapd00r.se>
